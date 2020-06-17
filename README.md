@@ -1,3 +1,14 @@
+**Compilation guide**
+
+OS: Ubuntu 20.04
+Python 3.5.9
+cmake 3.17.3
+boost 1.58
+
+Tips: because of boost::python::numeric deprecation since boost 1.58, please use boost 1.58 and make sure a correct libboost_python is used.
+
+
+================================
 [UNMAINTAINED] OpenGM 2
 ================================
 
