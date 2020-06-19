@@ -1,7 +1,7 @@
 **Compilation guide**
 
 OS: Ubuntu 20.04
-Python 3.5.9
+Python 2.7.18rc1
 cmake 3.17.3
 boost 1.58
 
